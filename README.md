@@ -18,9 +18,11 @@ Dacon-competition/
 - All `ipynb` notebooks are created in the Colab environment.
 
 ----------------
-### 1. [Population data-based income prediction - 인구 데이터 기반 소득 예측 경진대회](https://dacon.io/competitions/official/235892/overview/description) | [Code](https://dacon.io/competitions/official/235892/codeshare/4865?page=1&dtype=recent) |
+### 1. [Population data-based income prediction](https://dacon.io/competitions/official/235892/overview/description) | [Code](https://dacon.io/competitions/official/235892/codeshare/4865?page=1&dtype=recent) |
+> 인구 데이터 기반 소득 예측 경진대회
 - Keyword : Log transformation, Lightgbm, Xgboost, ensemble
 - Leaderboard : 49/449
 
-### 2. [Consumer data-based spending forecast - 소비자 데이터 기반 소비 예측 경진대회](https://dacon.io/competitions/official/235893/overview/description) | [Code](https://dacon.io/competitions/official/235893/codeshare/4881?page=1&dtype=recent) |
+### 2. [Consumer data-based spending forecast](https://dacon.io/competitions/official/235893/overview/description) | [Code](https://dacon.io/competitions/official/235893/codeshare/4881?page=1&dtype=recent) |
+> 소비자 데이터 기반 소비 예측 경진대회
 - In progress...
