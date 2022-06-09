@@ -14,7 +14,7 @@ Dacon-competition/
 ~~~
 
 - `train.csv` is the training data and `test.csv` is the test data. And neither can be shared due to data security.
-- We make submissions using `test.csv`.
+- We make `submissions.csv` using `test.csv`.
 - All `ipynb` notebooks are created in the Colab environment.
 
 ----------------
