@@ -26,7 +26,7 @@ Dacon-competition/
 ### 2. [Consumer data-based spending forecast](https://dacon.io/competitions/official/235893/overview/description) | [Code](https://dacon.io/codeshare/4881) |
 > 소비자 데이터 기반 소비 예측 경진대회
 - Keyword : Yeo-Johnson transformation, Elasticnet, Lightgbm, Xgboost, ensemble, FastAutoML
-- Leaderboard : 15/518 (public)
+- Leaderboard : 15/518 (private)
 
 ### 3. [Used car price forecast](https://dacon.io/competitions/official/235901/overview/description) | [Code](https://dacon.io/competitions/official/235901/codeshare/5089?page=1&dtype=recent) |
 > 중고차 가격 예측 경진대회
