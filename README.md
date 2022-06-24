@@ -33,7 +33,7 @@ Dacon-competition/
 - Keyword : Feature engineering, Catboost, Random forest, Gradient Boosting, ensemble, Pycaret, FastAutoML
 - Leaderboard : 2/570 (private) --> 1/570 (final rank)
 
-### 4. [Speech classification](https://dacon.io/competitions/official/235905/overview/description) |  [Code](https://github.com/standing-o/my_DACON/tree/master/Speech_classification) | [Notebook](https://dacon.io/competitions/official/235905/codeshare/5209?page=1&dtype=recent)
+### 4. [Speech classification](https://dacon.io/competitions/official/235905/overview/description) |  [Code](https://github.com/standing-o/my_DACON/tree/master/Speech_classification) | [Notebook](https://dacon.io/competitions/official/235905/codeshare/5209?page=1&dtype=recent) |  
 > 음성 분류 경진대회
 - Keyword : Data augmentation, Feature extraction, Wavenet, CNN, FastAutoML
 - Leaderboard : 23/217 (private)
