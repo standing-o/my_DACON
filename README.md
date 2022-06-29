@@ -1,6 +1,8 @@
 # my DACON
 - All the DACON competitions I participated in
+- Apr. 29, 2022 ~ Present
 
+-----------------------------------
 ### Dataset
 - The directory structure of all competitions follows:
 ~~~
