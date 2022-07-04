@@ -33,12 +33,12 @@ Dacon-competition/
 ### 3. [Used car price forecast](https://dacon.io/competitions/official/235901/overview/description) |  [Code](https://github.com/standing-o/my_DACON/tree/master/Forecasting_used-car_price) | [Notebook](https://dacon.io/competitions/official/235901/codeshare/5089?page=1&dtype=recent) |
 > 중고차 가격 예측 경진대회
 - Keyword : Feature engineering, Catboost, Random forest, Gradient Boosting, ensemble, Pycaret, FastAutoML
-- Leaderboard : 2/570 (private) --> 1/570 (final rank)
+- Leaderboard : 2/570 (private) ➔ 1/570 (final rank)
 
 ### 4. [Speech classification](https://dacon.io/competitions/official/235905/overview/description) |  [Code](https://github.com/standing-o/my_DACON/tree/master/Speech_classification) | [Notebook](https://dacon.io/competitions/official/235905/codeshare/5209?page=1&dtype=recent) |  
 > 음성 분류 경진대회
 - Keyword : Data augmentation, Feature extraction, Wavenet, CNN, FastAutoML
-- Leaderboard : 23/217 (private) --> Special prize
+- Leaderboard : 23/217 (private) ➔ Special prize
 
 ### 5. [Detection of COVID-19 with audio data](https://dacon.io/competitions/official/235910/overview/description)
 > 음향 데이터 COVID-19 검출 AI 경진대회
