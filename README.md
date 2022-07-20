@@ -43,3 +43,7 @@ Dacon-competition/
 ### 5. [Sales forecast by shopping mall branches](https://dacon.io/competitions/official/235942/overview/description)
 > 쇼핑몰 지점별 매출액 예측 경진대회
 - In progress...
+
+### 6. [Credit card fraud detection](https://dacon.io/competitions/official/235930/overview/description)
+> 신용카드 사기 거래 탐지 AI 경진대회
+- In progress...
