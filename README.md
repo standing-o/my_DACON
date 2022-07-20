@@ -47,3 +47,4 @@ Dacon-competition/
 ### 6. [Credit card fraud detection](https://dacon.io/competitions/official/235930/overview/description)
 > 신용카드 사기 거래 탐지 AI 경진대회
 - In progress...
+- Keyword : Unsupervised Anomaly Detection
