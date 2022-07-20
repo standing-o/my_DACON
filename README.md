@@ -40,6 +40,6 @@ Dacon-competition/
 - Keyword : Data augmentation, Feature extraction, Wavenet, CNN, FastAutoML
 - Leaderboard : 23/217 (private) ➔ Special prize
 
-### 5. [Detection of COVID-19 with audio data](https://dacon.io/competitions/official/235910/overview/description)
-> 음향 데이터 COVID-19 검출 AI 경진대회
+### 5. [Sales forecast by shopping mall branches](https://dacon.io/competitions/official/235942/overview/description)
+> 쇼핑몰 지점별 매출액 예측 경진대회
 - In progress...
