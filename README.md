@@ -40,12 +40,12 @@ Dacon-competition/
 - Keyword : Data augmentation, Feature extraction, Wavenet, CNN, FastAutoML
 - Leaderboard : 23/217 (private) ➔ Special prize
 
-### 5. [Sales forecast by shopping mall branches](https://dacon.io/competitions/official/235942/overview/description)
+### 5. [Sales forecast by shopping mall branches](https://dacon.io/competitions/official/235942/overview/description) | [Code](https://github.com/standing-o/my_DACON/tree/master/Shopping_sales_revenue) | [Notebook](https://dacon.io/competitions/official/235942/codeshare/5684) |
 > 쇼핑몰 지점별 매출액 예측 경진대회
 - Keyword : Feature engineering, xgboost
 - Leaderboard : 44/1198 (private)
 
-### 6. [Credit card fraud detection](https://dacon.io/competitions/official/235930/overview/description)
+### 6. [Credit card fraud detection](https://dacon.io/competitions/official/235930/overview/description) | [Code](https://github.com/standing-o/my_DACON/tree/master/Credit_card_fraud_detection) |
 > 신용카드 사기 거래 탐지 AI 경진대회
 - Keyword : Unsupervised anomaly detection, elliptic envelope
 - Leaderboard : 159/1405 (private)
