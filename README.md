@@ -50,12 +50,12 @@ Dacon-competition/
 - Keyword : Unsupervised anomaly detection, elliptic envelope
 - Leaderboard : 159/1405 (private)
 
-### 7. [Antenna performance prediction for Autonomous driving sensor](https://dacon.io/competitions/official/235927/overview/description) | [Code](https://github.com/standing-o/my_DACON/blob/master/Autonomous_driving_antenna/lgbm%2Bxgb%2Brf.ipynb)
+### 7. [Antenna performance prediction for Autonomous driving sensor](https://dacon.io/competitions/official/235927/overview/description) | [Code](https://github.com/standing-o/my_DACON/blob/master/Autonomous_driving_antenna/lgbm%2Bxgb%2Brf.ipynb) |
 > 자율주행 센서의 안테나 성능 예측 AI 경진대회
 - Keyword : FastAutoML, ensemble
 - Leaderboard : 39/1758 (private)
 
-### 8. [Prediction of travel product application](https://dacon.io/competitions/official/235959/overview/description) | [Code](https://github.com/standing-o/my_DACON/tree/master/Travel_product_application)
+### 8. [Prediction of travel product application](https://dacon.io/competitions/official/235959/overview/description) | [Code](https://github.com/standing-o/my_DACON/tree/master/Travel_product_application) |
 > 여행 상품 신청 여부 예측 경진대회
 - Keyword : Feature engineering, Extra tree
 - Leaderboard : 55/582 (private)
