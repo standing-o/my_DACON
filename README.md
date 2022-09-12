@@ -59,3 +59,7 @@ Dacon-competition/
 > 여행 상품 신청 여부 예측 경진대회
 - Keyword : Feature engineering, Extra tree
 - Leaderboard : 55/582 (private)
+
+### 9. [Bok choy growth prediction](https://dacon.io/competitions/official/235961/overview/description)
+> 청경채 성장 예측 AI 경진대회
+- In progress...
