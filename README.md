@@ -18,7 +18,7 @@ Dacon-competition/
 - `train.csv` is the training data and `test.csv` is the test data. And neither can be shared due to data security.
 - We make `submissions.csv` using `test.csv`.
 - All `ipynb` notebooks are created in the Colab environment.
-
+- Leaderboard : `private score rank`/`all participants`
 ----------------
 ### 1. [Population data-based income prediction](https://dacon.io/competitions/official/235892/overview/description) | [Code](https://github.com/standing-o/my_DACON/tree/master/Forecasting_income) | [Notebook](https://dacon.io/competitions/official/235892/codeshare/4865?page=1&dtype=recent) |
 > 인구 데이터 기반 소득 예측 경진대회
