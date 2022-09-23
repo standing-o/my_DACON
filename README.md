@@ -60,6 +60,7 @@ Dacon-competition/
 - Keyword : Feature engineering, Extra tree
 - Leaderboard : 55/582 (private)
 
-### 9. [Bok choy growth prediction](https://dacon.io/competitions/official/235961/overview/description)
+### 9. [Bok choy growth prediction](https://dacon.io/competitions/official/235961/overview/description) | [Code](https://github.com/standing-o/my_DACON/tree/master/Bok_choy_growth) | 
 > 청경채 성장 예측 AI 경진대회
-- In progress...
+- Keyword : LSTM, CNN-LSTM, Multivariate time series
+- Leaderboard : 128/725 (private)
