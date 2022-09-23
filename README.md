@@ -64,3 +64,7 @@ Dacon-competition/
 > 청경채 성장 예측 AI 경진대회
 - Keyword : LSTM, CNN-LSTM, Multivariate time series
 - Leaderboard : 128/725 (private)
+
+### 10. [Classification of POI categories](https://dacon.io/competitions/official/235978/overview/description)
+> 2022 관광데이터 AI 경진대회 - 국문관광정보(POI) 카테고리 자동 분류 경진대회
+- In progress...
