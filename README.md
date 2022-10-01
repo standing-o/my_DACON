@@ -1,5 +1,6 @@
 # my DACON
 - All the DACON competitions I participated in
+- Dacon is the Ai competition platform in South Korea.
 - Apr. 29, 2022 ~ Present
 
 -----------------------------------
