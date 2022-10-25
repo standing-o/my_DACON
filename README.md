@@ -72,7 +72,7 @@ Dacon-competition/
 
 ### 11. [Prediction of lymphadenopathy in breast cancer](https://dacon.io/competitions/official/236011/overview/description)
 > 유방암의 임파선 전이 예측 AI경진대회
-'- In progress...
+- In progress...
 
 ### 12. [Oil status classification of construction machinery](https://dacon.io/competitions/official/236013/overview/description)
 > 건설기계 오일 상태 분류 AI 경진대회
