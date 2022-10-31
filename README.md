@@ -54,7 +54,7 @@ Dacon-competition/
 ### 7. [Antenna performance prediction for Autonomous driving sensor](https://dacon.io/competitions/official/235927/overview/description) | [Code](https://github.com/standing-o/my_DACON/blob/master/Autonomous_driving_antenna/lgbm%2Bxgb%2Brf.ipynb) |
 > 자율주행 센서의 안테나 성능 예측 AI 경진대회
 - Keyword : FastAutoML, ensemble
-- Leaderboard : 39/1758 (private)
+- Leaderboard : 39/1758 (private) ➔ [Top 4% certificate](https://drive.google.com/file/d/1FNWB9_T_ndQmdJZdZbOybHx3taxNTcPJ/view?usp=sharing)
 
 ### 8. [Prediction of travel product application](https://dacon.io/competitions/official/235959/overview/description) | [Code](https://github.com/standing-o/my_DACON/tree/master/Travel_product_application) |
 > 여행 상품 신청 여부 예측 경진대회
