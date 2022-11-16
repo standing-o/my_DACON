@@ -66,14 +66,10 @@ Dacon-competition/
 - Keyword : LSTM, CNN-LSTM, Multivariate time series
 - Leaderboard : 128/725 (private)
 
-### 10. [Classification of artists](https://dacon.io/competitions/official/236006/overview/description)
-> 월간 데이콘 예술 작품 화가 분류 AI 경진대회
-- In progress...
-
-### 11. [Prediction of lymphadenopathy in breast cancer](https://dacon.io/competitions/official/236011/overview/description)
+### 10. [Prediction of lymphadenopathy in breast cancer](https://dacon.io/competitions/official/236011/overview/description)
 > 유방암의 임파선 전이 예측 AI경진대회
 - In progress...
 
-### 12. [Oil status classification of construction machinery](https://dacon.io/competitions/official/236013/overview/description)
+### 11. [Oil status classification of construction machinery](https://dacon.io/competitions/official/236013/overview/description)
 > 건설기계 오일 상태 분류 AI 경진대회
 - In progress...
