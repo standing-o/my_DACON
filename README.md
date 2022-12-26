@@ -70,3 +70,7 @@ Dacon-competition/
 > 기계 고장 진단 AI 경진대회
 - In progress...
 
+### 11. [Breed classification using genetic information](https://dacon.io/competitions/official/236035/overview/description)
+> 유전체 정보 품종 분류 AI 경진대회
+- In progress...
+
