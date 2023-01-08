@@ -68,7 +68,7 @@ Dacon-competition/
 
 ### 10. [Machine fault diagnosis](https://dacon.io/competitions/official/236036/overview/description)
 > 기계 고장 진단 AI 경진대회
-- In progress...
+- Keyword : One-Class Classification(Semi-supervised Learning)
 
 ### 11. [Breed classification using genetic information](https://dacon.io/competitions/official/236035/overview/description)
 > 유전체 정보 품종 분류 AI 경진대회
