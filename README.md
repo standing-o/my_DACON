@@ -66,12 +66,12 @@ Dacon-competition/
 - Keyword : LSTM, CNN-LSTM, Multivariate time series
 - Leaderboard : 128/725 (private)
 
-### 10. [Machine fault diagnosis](https://dacon.io/competitions/official/236036/overview/description)
+### 10. [Machine fault diagnosis](https://dacon.io/competitions/official/236036/overview/description) | [Code](https://github.com/standing-o/my_DACON/tree/master/Machine_fault)
 > 기계 고장 진단 AI 경진대회
 - Keyword : One-Class Classification(Semi-supervised Learning), Audio
 - Leaderboard : 66/587 (private)
 
-### 11. [Breed classification using genetic information](https://dacon.io/competitions/official/236035/overview/description)
+### 11. [Breed classification using genetic information](https://dacon.io/competitions/official/236035/overview/description) | [Code](https://github.com/standing-o/my_DACON/tree/master/Genetic_info_breed)
 > 유전체 정보 품종 분류 AI 경진대회
 - Keyword : FastAutoML, Pycaret, Hard voting
 - Leaderboard : 218/1077 (private)
