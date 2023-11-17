@@ -76,3 +76,7 @@ Dacon-competition/
 - Keyword : FastAutoML, Pycaret, Hard voting
 - Leaderboard : 218/1077 (private)
 
+### 12. [Jeju specialty price prediction](https://dacon.io/competitions/official/236176/overview/description) | [Code](https://github.com/standing-o/my_DACON/tree/master/Jeju_price_forecasting)
+> 제주 특산물 가격 예측 AI 경진대회
+- Keyword: Autots, Prophet
+- Participated in a team.
