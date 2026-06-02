@@ -83,6 +83,6 @@ Dacon-competition/
 
 ### 13. [Mosquito flight trajectory prediction](https://dacon.io/competitions/official/236716/overview/description) | [Code](https://github.com/standing-o/my_DACON/tree/master/Mosquito_flight_trajectory_prediction)
 > 모기 비행 궤적 예측 AI 경진대회
-- Keyword : Physics candidate ladder, Ensemble, Boundary residual MLP
+- Keyword : Anchor-based multi-modal trajectory prediction, Ensemble, Residual refinement
 - Leaderboard : 134/786 (public)
 
